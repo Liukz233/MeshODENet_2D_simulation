@@ -6,7 +6,6 @@ A physics-based mesh simulation framework combining Graph Neural Networks with N
        controls autoplay loop style="max-width:100%; height:auto;">
 </video>
 
-
 ## Project Structure
 
 ```
